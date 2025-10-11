@@ -1,0 +1,5 @@
+{
+  "name": "Go digital map scrapper",
+  "description": "An AI-powered web application that finds and displays business information from a vast knowledge base, similar to searching on Google Maps. Users can enter a query to get a list of relevant businesses with details like address, phone number, and a summary.",
+  "requestFramePermissions": []
+}
